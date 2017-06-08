@@ -1,0 +1,11 @@
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\bin\Debug\TP2ETU.exe.config
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\bin\Debug\TP2ETU.exe
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\bin\Debug\TP2ETU.pdb
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\obj\Debug\TP2ETU.csprojResolveAssemblyReference.cache
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\obj\Debug\TP2ETU.csproj.ResolveComReference.cache
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\obj\Debug\TP2ETU.frmMemoryGameMain.resources
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\obj\Debug\TP2ETU.Properties.Resources.resources
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\obj\Debug\TP2ETU.csproj.GenerateResource.Cache
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\obj\Debug\TP2ETU.exe
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP2ETU\TP2ETU\obj\Debug\TP2ETU.pdb
